@@ -1,6 +1,8 @@
 Rencana Konten
 
 - Java Script
+* ES6
+* Framework Javascript
 - PHP Frame Work
 - Interview
 - Vlogs
