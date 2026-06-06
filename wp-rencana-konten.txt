@@ -3,11 +3,11 @@ Rencana Konten
 - Java Script
 * ES6
 * Framework Javascript
-^ Vue
-^ React
+  ^ Vue
+  ^ React
 - Struktur Data Dasar
 - PHP Frame Work
-^ Laravel
+  ^ Laravel
 - Interview
 - Vlogs
 - Python
